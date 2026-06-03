@@ -12,20 +12,21 @@
 
 ---
 
-Working student (SWE) at **Hivemind**, where I help build an AI learning app — React Native on
-the front, Hono + Postgres on the back, with some agent and MCP tooling along the way. Studying
-B.Sc. Software Engineering at **CODE University of Applied Sciences**, Berlin.
+Working student (SWE) at **Aether Technologies UG**, where we build
+**[Hivemind](https://gethivemind.app/)** (an AI learning app) and **Brainjuice**
+(short-form video learning — launching soon). Studying B.Sc. Software Engineering at
+**CODE University of Applied Sciences**, Berlin.
 
-I tend to build end-to-end. **HausPet** started as a pet-health app and turned into a whole
-product — the app plus a bilingual landing page for a smart collar. The rest of my repos are
-me following curiosity: a pathfinding visualizer, a hackathon agent, a few real websites, and
-a bit of quantum computing when the mood strikes.
+I like to build across the stack and follow my curiosity. Lately that's meant an AI agent for
+a hackathon, a quantum-computing course, an algorithm visualizer, and a website for an
+international student art initiative I volunteer with.
 
 #### Selected work
 
-- **[HausPet](https://github.com/MaryanPrydatko/HausPetApp)** — AI-powered pet-health app (React Native + Expo), with a [landing page](https://github.com/MaryanPrydatko/HausPet-landing) for the smart collar
+- **[self-learning-ai-agent](https://github.com/MaryanPrydatko/self-learning-ai-agent)** — AI agent built for the Zauber challenge at Big Berlin Hack
 - **[pathfinder-java](https://github.com/MaryanPrydatko/pathfinder-java)** — visualizes A\*, Dijkstra, BFS & DFS with maze generation (JavaFX)
-- **[self-learning-ai-agent](https://github.com/MaryanPrydatko/self-learning-ai-agent)** — built at Big Berlin Hack
+- **[Qiskit-fundamentals](https://github.com/MaryanPrydatko/Qiskit-fundamentals)** — hands-on quantum computing, working through the Qiskit basics
+- **[HOME / HOMELAND](https://github.com/MaryanPrydatko/art-gallery)** — website for an international student art initiative I volunteer on, organized at Sigmund Freud University Berlin with partners across São Paulo, Sulaimania & beyond
 - **[sladent-website](https://github.com/MaryanPrydatko/sladent-website)** — site for a dentistry practice
 
 #### Working with
