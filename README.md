@@ -29,9 +29,13 @@ Engineering at **CODE University of Applied Sciences**, Berlin.
 - **[HausPet](https://github.com/MaryanPrydatko/HausPetApp):** an AI pet-health app (React Native + Expo) with a bilingual [landing page](https://github.com/MaryanPrydatko/HausPet-landing) for a smart collar
 - **[sladent-website](https://github.com/MaryanPrydatko/sladent-website):** a website for a dentistry practice
 
-#### Stack
+<br/>
 
-`TypeScript` · `Python` · `Java` · `React Native` · `Hono` · `PostgreSQL` · `Docker`
+<div align="center">
+
+<img src="assets/toolkit.svg" alt="Building with TypeScript, Python, Java, React, Expo, Node.js, Hono, PostgreSQL, and Docker" width="100%" />
+
+</div>
 
 <br/>
 
