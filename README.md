@@ -1,44 +1,20 @@
-<div align="center">
+### Maryan Prydatko
 
-<img src="assets/banner.svg" alt="Maryan Prydatko, software engineer based in Berlin, building AI learning tools at Aether Technologies" width="100%" />
+Software engineering student in Berlin, and a working student at
+[Aether Technologies](https://gethivemind.app/) where we build Hivemind. I care more
+about building useful things than shiny ones. Off-hours I follow whatever has caught my
+attention, lately quantum computing and helping run an international student art initiative.
 
-<br/><br/>
+<samp>
+<a href="https://gethivemind.app/">hivemind</a> &nbsp;·&nbsp; brainjuice (soon) &nbsp;·&nbsp; <a href="https://linkedin.com/in/maryan-prydatko">linkedin</a> &nbsp;·&nbsp; <a href="https://x.com/giantaxe177">x</a> &nbsp;·&nbsp; <a href="mailto:maryan.prydatko1@gmail.com">email</a>
+</samp>
 
-<a href="https://linkedin.com/in/maryan-prydatko"><img src="https://img.shields.io/badge/LinkedIn-475569?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://x.com/giantaxe177"><img src="https://img.shields.io/badge/X-475569?style=flat-square&logo=x&logoColor=white" alt="X"/></a> <a href="mailto:maryan.prydatko1@gmail.com"><img src="https://img.shields.io/badge/Email-475569?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+#### Some things I've built
 
-</div>
+- **[self-learning-ai-agent](https://github.com/MaryanPrydatko/self-learning-ai-agent):** an autonomous agent, built at Big Berlin Hack
+- **[pathfinder-java](https://github.com/MaryanPrydatko/pathfinder-java):** a visualizer for A\*, Dijkstra, BFS and DFS, with maze generation (JavaFX)
+- **[HOME / HOMELAND](https://github.com/MaryanPrydatko/art-gallery):** the site for an international student art initiative I help run, with partners across São Paulo, Sulaimania and Berlin
+- **[HausPet](https://github.com/MaryanPrydatko/HausPetApp):** an AI pet-health app with a bilingual [landing page](https://github.com/MaryanPrydatko/HausPet-landing) for a smart collar
+- **[sladent-website](https://github.com/MaryanPrydatko/sladent-website):** a site for a dentistry practice
 
-<br/>
-
-I'm a software engineering student in Berlin, working as a student developer at
-**Aether Technologies UG**. I care more about building useful tools than chasing shiny
-ones, and I like owning things end to end. Outside of product work I follow my
-curiosity, lately into quantum computing and a student art initiative.
-
-#### Now
-
-Helping build **[Hivemind](https://gethivemind.app/)**, an AI learning app, and
-**Brainjuice**, short-form video learning launching soon. Studying B.Sc. Software
-Engineering at **CODE University of Applied Sciences**, Berlin.
-
-#### Selected work
-
-- **[self-learning-ai-agent](https://github.com/MaryanPrydatko/self-learning-ai-agent):** an autonomous agent built for the Zauber challenge at Big Berlin Hack
-- **[pathfinder-java](https://github.com/MaryanPrydatko/pathfinder-java):** a JavaFX visualizer for A\*, Dijkstra, BFS and DFS, with maze generation and live animation
-- **[HOME / HOMELAND](https://github.com/MaryanPrydatko/art-gallery):** the website for an international student art initiative I help organize at Sigmund Freud University Berlin, with partners in São Paulo and Sulaimania
-- **[HausPet](https://github.com/MaryanPrydatko/HausPetApp):** an AI pet-health app (React Native + Expo) with a bilingual [landing page](https://github.com/MaryanPrydatko/HausPet-landing) for a smart collar
-- **[sladent-website](https://github.com/MaryanPrydatko/sladent-website):** a website for a dentistry practice
-
-<br/>
-
-<div align="center">
-
-<img src="assets/toolkit.svg" alt="Building with TypeScript, Python, Java, React, Expo, Node.js, Hono, PostgreSQL, and Docker" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Open to interesting problems and good people to build with.</sub>
-</div>
+Mostly TypeScript, Python and Java these days, with React Native, Hono and Postgres.
