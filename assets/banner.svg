@@ -1,4 +1,4 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Maryan Prydatko — Software engineer based in Berlin, building AI learning tools at Aether Technologies">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Maryan Prydatko, software engineer based in Berlin, building AI learning tools at Aether Technologies">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0d1117"/>
@@ -9,7 +9,7 @@
       <stop offset="1" stop-color="#c98fff"/>
     </linearGradient>
     <radialGradient id="orb" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#7c83ff" stop-opacity="0.20"/>
+      <stop offset="0" stop-color="#7c83ff" stop-opacity="0.28"/>
       <stop offset="1" stop-color="#7c83ff" stop-opacity="0"/>
     </radialGradient>
     <clipPath id="card">
@@ -19,24 +19,7 @@
 
   <g clip-path="url(#card)">
     <rect width="1200" height="300" fill="url(#bg)"/>
-    <circle cx="1040" cy="60" r="270" fill="url(#orb)"/>
-    <!-- quiet node motif -->
-    <g stroke="#5b6680" stroke-width="1.5">
-      <line x1="905" y1="92" x2="1010" y2="150"/>
-      <line x1="1010" y1="150" x2="965" y2="232"/>
-      <line x1="1010" y1="150" x2="1108" y2="118"/>
-      <line x1="965" y1="232" x2="1080" y2="214"/>
-      <line x1="905" y1="92" x2="1108" y2="118"/>
-      <line x1="1080" y1="214" x2="1108" y2="118"/>
-    </g>
-    <g fill="#7e88a3">
-      <circle cx="905" cy="92" r="5"/>
-      <circle cx="965" cy="232" r="5"/>
-      <circle cx="1108" cy="118" r="5"/>
-      <circle cx="1080" cy="214" r="5"/>
-    </g>
-    <circle cx="1010" cy="150" r="13" fill="#7c83ff" opacity="0.18"/>
-    <circle cx="1010" cy="150" r="7" fill="#8b93ff"/>
+    <circle cx="1080" cy="40" r="300" fill="url(#orb)"/>
   </g>
 
   <text x="72" y="130" font-family="'Inter','Segoe UI',Helvetica,Arial,sans-serif" font-size="64" font-weight="600" letter-spacing="-1.5" fill="#f0f6fc">Maryan Prydatko</text>
