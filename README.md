@@ -25,8 +25,8 @@ international student art initiative I volunteer with.
 
 - **[self-learning-ai-agent](https://github.com/MaryanPrydatko/self-learning-ai-agent)** — AI agent built for the Zauber challenge at Big Berlin Hack
 - **[pathfinder-java](https://github.com/MaryanPrydatko/pathfinder-java)** — visualizes A\*, Dijkstra, BFS & DFS with maze generation (JavaFX)
-- **[Qiskit-fundamentals](https://github.com/MaryanPrydatko/Qiskit-fundamentals)** — hands-on quantum computing, working through the Qiskit basics
 - **[HOME / HOMELAND](https://github.com/MaryanPrydatko/art-gallery)** — website for an international student art initiative I volunteer on, organized at Sigmund Freud University Berlin with partners across São Paulo, Sulaimania & beyond
+- **[HausPet](https://github.com/MaryanPrydatko/HausPetApp)** — AI-powered pet-health app (React Native + Expo), with a bilingual [landing page](https://github.com/MaryanPrydatko/HausPet-landing) for the smart collar
 - **[sladent-website](https://github.com/MaryanPrydatko/sladent-website)** — site for a dentistry practice
 
 #### Working with
