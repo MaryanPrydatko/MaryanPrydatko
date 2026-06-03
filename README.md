@@ -1,9 +1,16 @@
 ### Maryan Prydatko
 
 Software engineering student in Berlin, and a working student at
-[Aether Technologies](https://gethivemind.app/) where we build Hivemind. I care more
-about building useful things than shiny ones. Off-hours I follow whatever has caught my
-attention, lately quantum computing and helping run an international student art initiative.
+[Aether Technologies](https://gethivemind.app/) where we build Hivemind. I care more about
+building useful things than shiny ones.
+
+I'm mostly here for AI: I build with it at work, and on the side I'm learning it properly,
+from the ground up. I like it most where it touches real systems and hardware, which is what
+keeps pulling me toward embedded and quantum too. Outside of code, I help run an international
+student art initiative.
+
+Someday I want to build a local-first bridge that makes Mac, Windows, Linux, iPhone and Android
+feel like one computer. That one is for later, but it keeps nagging at me.
 
 <samp>
 <a href="https://gethivemind.app/">hivemind</a> &nbsp;·&nbsp; brainjuice (soon) &nbsp;·&nbsp; <a href="https://linkedin.com/in/maryan-prydatko">linkedin</a> &nbsp;·&nbsp; <a href="https://x.com/giantaxe177">x</a> &nbsp;·&nbsp; <a href="mailto:maryan.prydatko1@gmail.com">email</a>
@@ -12,6 +19,7 @@ attention, lately quantum computing and helping run an international student art
 #### Some things I've built
 
 - **[self-learning-ai-agent](https://github.com/MaryanPrydatko/self-learning-ai-agent):** an autonomous agent, built at Big Berlin Hack
+- **[toast-planning-project](https://github.com/MaryanPrydatko/toast-planning-project):** an AI planning project from CODE's AI-basics module, which I'm expanding
 - **[pathfinder-java](https://github.com/MaryanPrydatko/pathfinder-java):** a visualizer for A\*, Dijkstra, BFS and DFS, with maze generation (JavaFX)
 - **[HOME / HOMELAND](https://github.com/MaryanPrydatko/art-gallery):** the site for an international student art initiative I help run, with partners across São Paulo, Sulaimania and Berlin
 - **[HausPet](https://github.com/MaryanPrydatko/HausPetApp):** an AI pet-health app with a bilingual [landing page](https://github.com/MaryanPrydatko/HausPet-landing) for a smart collar
