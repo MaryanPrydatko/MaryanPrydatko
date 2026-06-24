@@ -18,7 +18,6 @@ I help organize, and the website for a dentistry practice I built and maintain.
 
 - **[video-bouncer](https://github.com/MaryanPrydatko/video-bouncer):** a Brave/Chrome extension that hides X/Twitter video posts behind an “are you sure?” bouncer
 - **[week-tally](https://github.com/MaryanPrydatko/week-tally):** a Brave/Chrome extension that tallies weekly hours per calendar event against targets — works in Google Calendar and Notion Calendar
-- **[self-learning-ai-agent](https://github.com/MaryanPrydatko/self-learning-ai-agent):** an autonomous agent, built at Big Berlin Hack
 - **[toast-planning-project](https://github.com/MaryanPrydatko/toast-planning-project):** an AI planning project from CODE's AI-basics module, which I'm expanding
 - **[pathfinder-java](https://github.com/MaryanPrydatko/pathfinder-java):** a visualizer for A\*, Dijkstra, BFS and DFS, with maze generation (JavaFX)
 - **[HOME / HOMELAND](https://github.com/MaryanPrydatko/art-gallery):** the website for an international student art initiative, with partners across São Paulo, Sulaimania and Berlin
