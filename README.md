@@ -11,7 +11,7 @@ Outside of that, I keep a couple of real things running: an international studen
 I help organize, and the website for a dentistry practice I built and maintain.
 
 <samp>
-<a href="https://gethivemind.app/">hivemind</a> &nbsp;·&nbsp; <a href="https://brainjuice.app/">brainjuice</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/maryan-prydatko">linkedin</a> &nbsp;·&nbsp; <a href="https://x.com/giantaxe177">x</a> &nbsp;·&nbsp; <a href="mailto:maryan.prydatko1@gmail.com">email</a>
+<a href="https://gethivemind.app/">hivemind</a> &nbsp;·&nbsp; <a href="https://brainjuice.app/">brainjuice</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/maryan-prydatko">linkedin</a> &nbsp;·&nbsp; <a href="https://x.com/giantaxe177">x</a> &nbsp;·&nbsp; <a href="mailto:maryan.prydatko1@gmail.com">email</a> &nbsp;·&nbsp; <a href="https://home-land-nine.vercel.app/">HOME / HOMELAND</a>
 </samp>
 
 #### Some things I've built
