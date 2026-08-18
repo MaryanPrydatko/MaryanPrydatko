@@ -49,8 +49,8 @@ const moon = `<g class="moon"><circle class="m" cx="${W - 70}" cy="38" r="9"/><c
 const first = weekly[0].w.slice(0, 7), last = weekly.at(-1)!.w.slice(0, 7);
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Skyline: one building per week, one lit window per contribution">
 <style>
-  :root { --sky1:#eaf0f6; --sky2:#f6f8fa; --b:#454d56; --w:#f2cc60; --g:#d0d7de; --t:#57606a; --s:transparent; --m:#c9d1d9; --moon:none; }
-  @media (prefers-color-scheme: dark) { :root { --sky1:#0b0f16; --sky2:#161b22; --b:#21262d; --w:#f2cc60; --g:#30363d; --t:#8b949e; --s:#c9d1d9; --m:#c9d1d9; --moon:inline; } }
+  :root { --sky1:#eaf0f6; --sky2:#f6f8fa; --b:#3d444d; --w:#40c463; --g:#d0d7de; --t:#57606a; --s:transparent; --m:#c9d1d9; --moon:none; }
+  @media (prefers-color-scheme: dark) { :root { --sky1:#0b0f16; --sky2:#161b22; --b:#2a3237; --w:#39d353; --g:#30363d; --t:#8b949e; --s:#c9d1d9; --m:#c9d1d9; --moon:inline; } }
   .sky2{fill:var(--sky2)} .b{fill:var(--b)} .w{fill:var(--w)} .s{fill:var(--s);opacity:.6} .m{fill:var(--m)} .moon{display:var(--moon)}
   .g{stroke:var(--g)} text{font:10px ui-monospace,SFMono-Regular,Menlo,monospace;fill:var(--t)}
 </style>
