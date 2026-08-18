@@ -1,17 +1,11 @@
-### maryan prydatko
+# Maryan Prydatko
 
-software engineering student at CODE, berlin. working student at [aether](https://gethivemind.app/), on hivemind and brainjuice: an expo app for ios and web, a hono backend, and the llm parts in between.
+Software engineering student at CODE in Berlin. Working student at [Aether](https://gethivemind.app/) on Hivemind and Brainjuice: Expo/React Native on iOS and web, a Hono backend, PostgreSQL.
 
-on my own time: [uivet](https://github.com/MaryanPrydatko/uivet), a test harness for llm-generated ui. it samples a generation a few times, renders each one, checks fidelity and accessibility, and fails ci when the runs disagree. results across six models are on the [site](https://maryanprydatko.github.io/uivet/).
+This year I'm on a student CubeSat project at CODE, on the flight software side (ADCS/OBC). It's early. Hardware and ownership are still being settled, and I'm working through C++ fundamentals for it.
 
-smaller things:
+[uivet](https://github.com/MaryanPrydatko/uivet) is a test harness for LLM-generated UI I built earlier this year. It samples a generation N times, renders each in headless Chromium, checks fidelity and accessibility, and gates in CI. There is a small eval across six models on the [site](https://maryanprydatko.github.io/uivet/). It's paused while the semester runs.
 
-- [week-tally](https://github.com/MaryanPrydatko/week-tally): browser extension, weekly hours per calendar event against a target. google calendar and notion calendar.
-- [video-bouncer](https://github.com/MaryanPrydatko/video-bouncer): browser extension, hides x/twitter videos behind a click.
-- [hauspet](https://github.com/MaryanPrydatko/HausPetApp): pet-health app prototype from summerup 2025 (2nd place). react native + flask.
-- [sladent](https://github.com/MaryanPrydatko/sladent-website): bilingual site for a dental clinic.
-- [HOME / HOMELAND](https://home-land-nine.vercel.app/): site for a student art initiative i help organize, with people in são paulo, sulaimania and berlin.
+Other repos here: [week-tally](https://github.com/MaryanPrydatko/week-tally) and [video-bouncer](https://github.com/MaryanPrydatko/video-bouncer) are browser extensions. [sladent-website](https://github.com/MaryanPrydatko/sladent-website) is a dental clinic's site. [HOME / HOMELAND](https://home-land-nine.vercel.app/) is the site of a student art initiative I help organize. [HausPetApp](https://github.com/MaryanPrydatko/HausPetApp) is a hackathon prototype from SummerUP 2025.
 
-mostly typescript, some python, some java. reading about embedded and quantum, not shipping any yet.
-
-[linkedin](https://linkedin.com/in/maryan-prydatko) · [x](https://x.com/giantaxe177) · maryan.prydatko1@gmail.com
+[LinkedIn](https://linkedin.com/in/maryan-prydatko) · [X](https://x.com/giantaxe177) · maryan.prydatko1@gmail.com
