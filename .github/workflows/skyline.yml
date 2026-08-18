@@ -1,0 +1,42 @@
+name: skyline
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_PASSWORD: postgres
+        ports: ["5432:5432"]
+        options: --health-cmd pg_isready --health-interval 5s --health-timeout 5s --health-retries 10
+    env:
+      PGHOST: localhost
+      PGUSER: postgres
+      PGPASSWORD: postgres
+      PGDATABASE: postgres
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - name: fetch contribution calendar
+        env:
+          GH_TOKEN: ${{ secrets.CONTRIB_TOKEN || github.token }}
+        run: |
+          gh api graphql -f query='{ user(login:"${{ github.repository_owner }}") { contributionsCollection { contributionCalendar { totalContributions weeks { contributionDays { date contributionCount } } } } } }' > calendar.json
+          jq -r '.data.user.contributionsCollection.contributionCalendar.weeks[].contributionDays[] | [.date, .contributionCount] | @csv' calendar.json > days.csv
+          echo "total: $(jq '.data.user.contributionsCollection.contributionCalendar.totalContributions' calendar.json), days: $(wc -l < days.csv)"
+      - name: aggregate in postgres
+        run: psql -v ON_ERROR_STOP=1 -f skyline.sql
+      - name: render
+        run: bun skyline.ts
+      - name: commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add skyline.svg
+          git diff --cached --quiet && echo "no change" || (git commit -m "skyline: $(date -u +%F)" && git push)
