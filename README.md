@@ -1,27 +1,17 @@
-### Maryan Prydatko
+### maryan prydatko
 
-Software engineering student in Berlin, and a working student at
-[Aether Technologies](https://gethivemind.app/) where we build Hivemind. I care more about
-building useful things than shiny ones.
+software engineering student at CODE, berlin. working student at [aether](https://gethivemind.app/), on hivemind and brainjuice: an expo app for ios and web, a hono backend, and the llm parts in between.
 
-Right now I'm focused on AI, at work and in my own time. I'm into embedded and quantum too,
-especially where they meet AI.
+on my own time: [uivet](https://github.com/MaryanPrydatko/uivet), a test harness for llm-generated ui. it samples a generation a few times, renders each one, checks fidelity and accessibility, and fails ci when the runs disagree. results across six models are on the [site](https://maryanprydatko.github.io/uivet/).
 
-Outside of that, I keep a couple of real things running: an international student art initiative
-I help organize, and the website for a dentistry practice I built and maintain.
+smaller things:
 
-<samp>
-<a href="https://gethivemind.app/">hivemind</a> &nbsp;·&nbsp; <a href="https://brainjuice.app/">brainjuice</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/maryan-prydatko">linkedin</a> &nbsp;·&nbsp; <a href="https://x.com/giantaxe177">x</a> &nbsp;·&nbsp; <a href="mailto:maryan.prydatko1@gmail.com">email</a> &nbsp;·&nbsp; <a href="https://home-land-nine.vercel.app/">HOME / HOMELAND</a>
-</samp>
+- [week-tally](https://github.com/MaryanPrydatko/week-tally): browser extension, weekly hours per calendar event against a target. google calendar and notion calendar.
+- [video-bouncer](https://github.com/MaryanPrydatko/video-bouncer): browser extension, hides x/twitter videos behind a click.
+- [hauspet](https://github.com/MaryanPrydatko/HausPetApp): pet-health app prototype from summerup 2025 (2nd place). react native + flask.
+- [sladent](https://github.com/MaryanPrydatko/sladent-website): bilingual site for a dental clinic.
+- [HOME / HOMELAND](https://home-land-nine.vercel.app/): site for a student art initiative i help organize, with people in são paulo, sulaimania and berlin.
 
-#### Some things I've built
+mostly typescript, some python, some java. reading about embedded and quantum, not shipping any yet.
 
-- **[video-bouncer](https://github.com/MaryanPrydatko/video-bouncer):** a Brave/Chrome extension that hides X/Twitter video posts behind an “are you sure?” bouncer
-- **[week-tally](https://github.com/MaryanPrydatko/week-tally):** a Brave/Chrome extension that tallies weekly hours per calendar event against targets — works in Google Calendar and Notion Calendar
-- **[toast-planning-project](https://github.com/MaryanPrydatko/toast-planning-project):** an AI planning project from CODE's AI-basics module, which I'm expanding
-- **[pathfinder-java](https://github.com/MaryanPrydatko/pathfinder-java):** a visualizer for A\*, Dijkstra, BFS and DFS, with maze generation (JavaFX)
-- **[HOME / HOMELAND](https://github.com/MaryanPrydatko/art-gallery):** the website for an international student art initiative, with partners across São Paulo, Sulaimania and Berlin
-- **[HausPet](https://github.com/MaryanPrydatko/HausPetApp):** an AI pet-health app with a bilingual [landing page](https://github.com/MaryanPrydatko/HausPet-landing) for a smart collar
-- **[sladent-website](https://github.com/MaryanPrydatko/sladent-website):** the website for a dentistry practice
-
-Mostly TypeScript, Python and Java these days, with React Native, Hono and Postgres.
+[linkedin](https://linkedin.com/in/maryan-prydatko) · [x](https://x.com/giantaxe177) · maryan.prydatko1@gmail.com
