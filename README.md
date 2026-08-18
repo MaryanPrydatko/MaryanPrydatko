@@ -1,6 +1,6 @@
 # Maryan Prydatko
 
-Working student at Aether, where I build the [Hivemind](https://apps.apple.com/app/id6737344456) and [Brainjuice](https://apps.apple.com/app/id6759610120) apps (Expo, iOS and [web](https://gethivemind.app/)) and the Hono backend. Software engineering student at CODE in Berlin.
+Working student at Aether, where I build the [Hivemind](https://apps.apple.com/app/id6737344456) and [Brainjuice](https://apps.apple.com/app/id6759610120) apps (Expo, iOS and [web](https://app.gethivemind.app/)) and the Hono backend. Software engineering student at CODE in Berlin.
 
 ![one building per week, one lit window per contribution](skyline.svg)
 
