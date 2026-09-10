@@ -1,6 +1,8 @@
 # Maryan Prydatko
 
-I build [Hivemind](https://apps.apple.com/app/id6737344456) and [Brainjuice](https://apps.apple.com/app/id6759610120) at Aether across mobile, [web](https://app.gethivemind.app/), and backend. Studying software engineering at CODE in Berlin. Mostly TypeScript, React Native, and Python.
+I build [Hivemind](https://apps.apple.com/app/id6737344456) and [Brainjuice](https://apps.apple.com/app/id6759610120) at Aether across mobile, [web](https://app.gethivemind.app/), and backend. I’m from Ukraine and study software engineering at CODE in Berlin. Mostly TypeScript, React Native, Expo, React, and Python. I enjoy working through problems and keeping software simple.
+
+**[Projects and writing → maryan.dev](https://maryan.dev/)**
 
 ![one building per week, one lit window per contribution](skyline.svg)
 
@@ -14,6 +16,6 @@ I build [Hivemind](https://apps.apple.com/app/id6737344456) and [Brainjuice](htt
 
 I also help organize [HOME/HOMELAND](https://home-land.art/), an international student art exhibition, and built its website for submissions and the gallery. React and Supabase.
 
-This semester I'm learning C++ and working on flight software for a student cubesat.
+This semester I'm learning C++ and working on flight software for a student cubesat. Outside software, I spend time bouldering, reading philosophy, and [writing](https://maryan.dev/blog/).
 
-[maryan.prydatko1@gmail.com](mailto:maryan.prydatko1@gmail.com)
+[Website](https://maryan.dev/) · [LinkedIn](https://www.linkedin.com/in/maryan-prydatko/) · [X](https://x.com/giantaxe177) · [Email](mailto:maryan.prydatko1@gmail.com)
