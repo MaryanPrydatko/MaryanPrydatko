@@ -16,6 +16,8 @@ I build [Hivemind](https://apps.apple.com/app/id6737344456) and [Brainjuice](htt
 
 I also help organize [HOME/HOMELAND](https://home-land.art/), an international student art exhibition, and built its website for submissions and the gallery. React and Supabase.
 
+Two of my fixes are merged into Software Mansion’s React Native libraries: [enriched-markdown](https://github.com/software-mansion/enriched-markdown/pull/828) scales inline code with Dynamic Type on iOS, and [react-native-streamdown](https://github.com/software-mansion-labs/react-native-streamdown/pull/28) no longer crashes on web when worklet runtimes are unavailable.
+
 This semester I'm learning C++ and working on flight software for a student cubesat. Outside software, I spend time bouldering, reading philosophy, and [writing](https://maryan.dev/blog/).
 
 [Website](https://maryan.dev/) · [LinkedIn](https://www.linkedin.com/in/maryan-prydatko/) · [X](https://x.com/giantaxe177) · [Email](mailto:maryan.prydatko1@gmail.com)
