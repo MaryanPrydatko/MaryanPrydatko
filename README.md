@@ -20,4 +20,4 @@ Two of my fixes are merged into Software Mansion’s React Native libraries: [en
 
 This semester I'm learning C++ and working on attitude determination and control for a student cubesat. Outside software, I spend time bouldering, reading philosophy, and [writing](https://maryan.dev/blog/).
 
-[Website](https://maryan.dev/) · [LinkedIn](https://www.linkedin.com/in/maryan-prydatko/) · [X](https://x.com/giantaxe177) · [Email](mailto:maryan.prydatko1@gmail.com)
+[Website](https://maryan.dev/) · [LinkedIn](https://www.linkedin.com/in/maryan-prydatko/) · [X](https://x.com/maryanprydatko) · [Email](mailto:maryan.prydatko1@gmail.com)
