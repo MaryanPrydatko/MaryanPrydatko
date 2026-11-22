@@ -1,23 +1,21 @@
-# Maryan Prydatko
+Ukrainian software engineer studying at CODE in Berlin. I build [Hivemind](https://apps.apple.com/app/id6737344456) and [Brainjuice](https://apps.apple.com/app/id6759610120) at Aether (Expo for iOS and [web](https://app.gethivemind.app/), Hono backend), where I rebuilt the AI lesson pipeline (72k+ installs) and took the web app to launch.
 
-I build [Hivemind](https://apps.apple.com/app/id6737344456) and [Brainjuice](https://apps.apple.com/app/id6759610120) at Aether across mobile, [web](https://app.gethivemind.app/), and backend. I’m from Ukraine and study software engineering at CODE in Berlin. Mostly TypeScript, React Native, Expo, React, and Python. I enjoy working through problems and keeping software simple.
+At uni I'm ADCS lead on CODESat1, a student 1U CubeSat, writing the C++ I2C HAL and magnetometer driver for the onboard computer.
 
-**[Projects and writing → maryan.dev](https://maryan.dev/)**
+### Built
 
-![one building per week, one lit window per contribution](skyline.svg)
+- [murmur](https://github.com/MaryanPrydatko/murmur): local dictation and two-track meeting notes for macOS and Linux in Rust/Tauri (Parakeet Ultra, speaker labels, local summaries, Obsidian export). Built on Handy.
+- [obsidian-space-calendar](https://github.com/MaryanPrydatko/obsidian-space-calendar): multi-account Google Calendar, ICS feeds, and Kanban cards inside Obsidian, with a CLI API for coding agents.
+- [uivet](https://github.com/MaryanPrydatko/uivet): eval harness for LLM-generated UI in headless Chromium across repeated runs ([six-model eval](https://maryanprydatko.github.io/uivet/)).
+- [fuxam-local](https://github.com/MaryanPrydatko/fuxam-local): zero-dependency Python CLI for university courses, bookings, and study progress. Works with coding agents.
+- [sladent.com](https://sladent.com/): website for my family's dental clinic in Ternopil, Ukraine. Ukrainian and English, plain HTML/CSS/JS on purpose.
+- [HOME/HOMELAND](https://home-land.art/): international student art exhibition I help organize; built submissions and the gallery in React and Supabase.
 
-<sub>rebuilt nightly from Postgres: [sql](skyline.sql) · [render](skyline.ts) · [workflow](.github/workflows/skyline.yml)</sub>
+### Merged upstream
 
-[fuxam-local](https://github.com/MaryanPrydatko/fuxam-local) puts university admin in my terminal: courses, study progress, and bookings. It also works with coding agents. Python, no third-party packages, runs on macOS, Linux, and Windows.
+- [software-mansion/enriched-markdown#828](https://github.com/software-mansion/enriched-markdown/pull/828): Dynamic Type scaling for inline code on iOS.
+- [software-mansion-labs/react-native-streamdown#28](https://github.com/software-mansion-labs/react-native-streamdown/pull/28): guard against missing worklet runtimes on web.
 
-[uivet](https://github.com/MaryanPrydatko/uivet) tests AI-generated interfaces in a browser for missing data, accessibility issues, and broken layouts across repeated runs. I used it to [evaluate six models](https://maryanprydatko.github.io/uivet/).
+Outside code: bouldering, reading philosophy, and [writing](https://maryan.dev/blog/).
 
-[sladent.com](https://sladent.com/) is my family's dental clinic in Ternopil, Ukraine. I built and run the website, with Ukrainian and English versions and appointment requests. Plain HTML, CSS and JavaScript, on purpose.
-
-I also help organize [HOME/HOMELAND](https://home-land.art/), an international student art exhibition, and built its website for submissions and the gallery. React and Supabase.
-
-Two of my fixes are merged into Software Mansion’s React Native libraries: [enriched-markdown](https://github.com/software-mansion/enriched-markdown/pull/828) scales inline code with Dynamic Type on iOS, and [react-native-streamdown](https://github.com/software-mansion-labs/react-native-streamdown/pull/28) no longer crashes on web when worklet runtimes are unavailable.
-
-This semester I'm learning C++ and working on attitude determination and control for a student cubesat. Outside software, I spend time bouldering, reading philosophy, and [writing](https://maryan.dev/blog/).
-
-[Website](https://maryan.dev/) · [LinkedIn](https://www.linkedin.com/in/maryan-prydatko/) · [X](https://x.com/maryanprydatko) · [Email](mailto:maryan.prydatko1@gmail.com)
+[maryan.dev](https://maryan.dev/) · [X](https://x.com/maryanprydatko) · [LinkedIn](https://www.linkedin.com/in/maryan-prydatko/) · [Email](mailto:maryan.prydatko1@gmail.com)
