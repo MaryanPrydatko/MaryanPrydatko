@@ -6,6 +6,7 @@ At uni I'm ADCS lead on CODESat1, a student 1U CubeSat, writing the C++ I2C HAL 
 
 ### Built
 
+- [Drebbel](https://drebbellabs.com/): radar and WiFi sensor for camera-free night alerts in care homes
 - [murmur](https://github.com/MaryanPrydatko/murmur): local dictation and two-track meeting notes for macOS and Linux in Rust/Tauri (Parakeet Ultra, speaker labels, local summaries, Obsidian export). Built on Handy.
 - [obsidian-space-calendar](https://github.com/MaryanPrydatko/obsidian-space-calendar): multi-account Google Calendar, ICS feeds, and Kanban cards inside Obsidian, with a CLI API for coding agents.
 - [uivet](https://github.com/MaryanPrydatko/uivet): eval harness for LLM-generated UI in headless Chromium across repeated runs ([six-model eval](https://maryanprydatko.github.io/uivet/)).
