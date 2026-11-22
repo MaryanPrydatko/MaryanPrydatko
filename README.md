@@ -1,5 +1,7 @@
 Ukrainian software engineer studying at CODE in Berlin. I build [Hivemind](https://apps.apple.com/app/id6737344456) and [Brainjuice](https://apps.apple.com/app/id6759610120) at Aether (Expo for iOS and [web](https://app.gethivemind.app/), Hono backend), where I rebuilt the AI lesson pipeline (72k+ installs) and took the web app to launch.
 
+With two friends I'm building [Drebbel](https://drebbellabs.com/), a wall-mounted radar and WiFi sensor for camera-free night alerts in care homes. I work on the sensor, the app, and the site.
+
 At uni I'm ADCS lead on CODESat1, a student 1U CubeSat, writing the C++ I2C HAL and magnetometer driver for the onboard computer.
 
 ### Built
